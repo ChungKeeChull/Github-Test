@@ -5,10 +5,11 @@ void main(void)
 	int i = 0 ;
 	int sum = 0;
 	
-	for(i = 0; i <=10 ; i++ )
+	for(i = 0; i <=100 ; i++ )
 	                   sum = sum+i ;
 
-    printf("sum = %d",sum);	                   
+    printf("sum = %d",sum);	
+	                   
 	  
 	
 	
